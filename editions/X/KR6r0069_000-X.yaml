@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0069/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 智者大師別傳註
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1535.xml
+    old_id: X77n1535
+hash: sha256:9440fe1786f4c65d9fcf2d684e68059e15ba15756ff6dc4895d0934fbd0f473d

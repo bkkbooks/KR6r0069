@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR6r0069/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0069/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 智者大師別傳註
+  identifiers:
+    krp: KR6r0069
+    cbeta: X77n1535
+    cbeta_old_id: X77n1535
+    authorityid: CA0004094
+    json_key: X1535
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1535.xml
+    old_id: X77n1535
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0069_000-X.yaml, hash: 'sha256:9440fe1786f4c65d9fcf2d684e68059e15ba15756ff6dc4895d0934fbd0f473d'}
+  - {seq: 1, filename: KR6r0069_001-X.yaml, hash: 'sha256:198d1a928b99dc0d47bcb743724063f7e9058a3569f7f12337c9324e6102fd5f'}
+  - {seq: 2, filename: KR6r0069_002-X.yaml, hash: 'sha256:cfa2ae1cac99f223eeb2bed81022d9b2990297934c538ee856dd0cf0f0a963f6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0069_000-X.markers.yaml, hash: 'sha256:303f4b24acdb7074fb3c2e29e2a2cf9caf939b2447e6e73da3be15129ac82a44'}
+  - {seq: 1, role: markers, filename: assets/KR6r0069_001-X.markers.yaml, hash: 'sha256:fbb1ebfcb007c25c9692db6c520f5962ee5749b39e2d4334291fa5f1dd67269d'}
+  - {seq: 2, role: markers, filename: assets/KR6r0069_002-X.markers.yaml, hash: 'sha256:f9c29dccd6537e148a316c08732314cea9a8d039efa87590a1c28fe5f8203be1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0069_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17677
+  label: '智者大師別傳註
+
+    　天台智者大師別傳卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0069_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 智者大師別傳註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9577
+  label: 天台智者大師別傳下卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-mulu-1
+    span:
+    - body
+    - 7505
+    - 7505
+  label: No. 1535-1 天台智者大師傳論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-mulu-2
+    span:
+    - body
+    - 8509
+    - 8509
+  label: No. 1535-2 (附)天台智者大師畵讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-mulu-3
+    span:
+    - body
+    - 9141
+    - 9141
+  label: No. 1535-A
+  type: mulu
+  level: 1
+hash: sha256:519c75a14cf5703f4c6bf5cf2304854d6e29e2606d97d616f9d57a26ab01bea7

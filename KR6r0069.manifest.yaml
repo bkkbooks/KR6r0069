@@ -1,0 +1,96 @@
+canonical_identifier: bkk:krp/KR6r0069/v1
+canonical_location: https://kanripo.org/bkk/KR6r0069/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 智者大師別傳註
+  identifiers:
+    alt_id:
+    - X77n1535
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1535.xml
+    old_id: X77n1535
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0069_000.yaml, hash: 'sha256:9440fe1786f4c65d9fcf2d684e68059e15ba15756ff6dc4895d0934fbd0f473d'}
+  - {seq: 1, filename: KR6r0069_001.yaml, hash: 'sha256:de2bb62e53837344dd1c4698424b15d02bd8f11cf5e43d3f8102464f22f38f38'}
+  - {seq: 2, filename: KR6r0069_002.yaml, hash: 'sha256:d802c4a5d81f25507e48904b453ce721dbba77c6f1c61fb86daa784f8aaab910'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0069_001.markers.yaml, hash: 'sha256:bdb2607985146203d1e81652d11278ddb89cd5a6103aaee8711f417edee27194'}
+  - {seq: 2, role: markers, filename: assets/KR6r0069_002.markers.yaml, hash: 'sha256:98aa3aeef68ea6c4b7dca8fa4c39f32fd6c64906d9e81830947fd0b705847028'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0069_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17677
+  label: '智者大師別傳註
+
+    　天台智者大師別傳卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0069_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 智者大師別傳註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9577
+  label: 天台智者大師別傳下卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-mulu-1
+    span:
+    - body
+    - 7505
+    - 7505
+  label: No. 1535-1 天台智者大師傳論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-mulu-2
+    span:
+    - body
+    - 8509
+    - 8509
+  label: No. 1535-2 (附)天台智者大師畵讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0069_X_002-mulu-3
+    span:
+    - body
+    - 9141
+    - 9141
+  label: No. 1535-A
+  type: mulu
+  level: 1
+hash: sha256:f448f5c8ffa7c072315246e6a5fa1a856803255c62e91545b66c207208a275d4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
